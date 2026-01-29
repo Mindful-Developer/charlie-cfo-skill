@@ -17,11 +17,8 @@ Charlie provides financial frameworks for bootstrapped, high-growth startups:
 ## Installation
 
 ```bash
-# Add to your Claude Code skills
-cp -r . ~/.claude/skills/charlie/
+npx skills add brandongell/charlie-skill
 ```
-
-Or add to your project's `.claude/skills/` directory.
 
 ## Usage
 

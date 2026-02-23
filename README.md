@@ -20,6 +20,8 @@ Charlie provides financial frameworks for bootstrapped, high-growth startups:
 npx skills add EveryInc/charlie-cfo-skill
 ```
 
+edit
+
 ## Usage
 
 Once installed, Charlie activates automatically when you ask financial questions:
